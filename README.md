@@ -39,7 +39,7 @@ My name is Lucas Correia Cruz and I'm a Statistician who is passionate about bui
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasccrj&show_icons=true&locale=en&layout=compact&theme=dracula" alt="lucasccrj" /> &nbsp;
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasccrj&show_icons=true&locale=en&layout=compact&theme=dracula" alt="lucasccrj" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lucasccrj&theme=dracula)](https://git.io/streak-stats)
  
